@@ -1,25 +1,5 @@
 strict-sigcheck = false
 
-[YouTube]
-brand = "morphe"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-arch = "arm64-v8a"
-
-[YT-Music]
-brand = "morphe"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-arch = "arm64-v8a"
-
-[Instagram]
-patches-source = "github:crimera/piko"
-brand = "piko"
-github-dlurl = "https://github.com/krvstek/uni-storage/releases/tag/instagram"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
-# uptodown-dlurl = "https://instagram.en.uptodown.com/android"
-arch = "arm64-v8a"
-
 [Facebook]
 patches-source = "github:RookieEnough/De-Vanced"
 brand = "de-vanced"
